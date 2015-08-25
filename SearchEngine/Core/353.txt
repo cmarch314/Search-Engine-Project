@@ -1,0 +1,1 @@
+{"text": "This line has been shamelessly stolen from Bill Bryson who uses it in In a Sunburned Country ", "_id": "http://www.ics.uci.edu/~jpd/misc/bryson.html", "title": "", "html": "This line has been shamelessly\nstolen from Bill Bryson, who uses it in \"In a Sunburned\nCountry.\"\n", "id": 353.0}

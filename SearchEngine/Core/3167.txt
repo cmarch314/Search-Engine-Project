@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/~kyungbak/", "title": "", "html": "<script type=\"text/javascript\">\n<!--\nwindow.location = \"http://altair.chonnam.ac.kr/~kbkim/\"\n//-->\n</script>\n", "id": 3167.0}

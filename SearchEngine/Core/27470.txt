@@ -1,0 +1,1 @@
+{"text": "Basic classes implementing propositional and first order logic formulas ", "_id": "http://www.ics.uci.edu/~alspaugh/cls/shr/formula/package.html", "title": "", "html": "<html>\n<body>\n\n<p>\nBasic classes implementing propositional and first-order logic formulas.\n\n\n</body>\n</html>\n", "id": 27470.0}

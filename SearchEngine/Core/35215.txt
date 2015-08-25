@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/~djp3/classes/2008_09_26_CS221/Lectures/Lecture15.html", "title": "", "html": "<html>\n<body>\n<object width='1024' height='768'>\n<param name='movie' value='Lecture15.swf'>\n<embed src='Lecture15.swf' width='1024' height='768'>\n</embed>\n</object>\n</body>\n</html>\n", "id": 35215.0}

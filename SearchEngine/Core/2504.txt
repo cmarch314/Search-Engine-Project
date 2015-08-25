@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/~cloder/", "title": "courtney loder", "html": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<html>\n<head>\n<title>Courtney Loder</title>\n<meta http-equiv=\"REFRESH\" content=\"0;url=http://www.courtneyloder.com\"></HEAD>\n<BODY>\n\n</BODY>\n</HTML>", "id": 2504.0}

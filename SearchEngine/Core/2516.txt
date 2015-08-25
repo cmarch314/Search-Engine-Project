@@ -1,0 +1,1 @@
+{"text": "It works Jianfei Hu Contact first name h at uci dot edu check that JavaScript is enabled 1 1 2 ", "_id": "http://www.ics.uci.edu/~jianfeih/", "title": "", "html": "<html>\n\tIt works, Jianfei Hu.<br>\n\tContact: $first_name + h at uci dot edu\n\t// check that JavaScript is enabled\n1 + 1 == 2;\n\n</html>\n", "id": 2516.0}

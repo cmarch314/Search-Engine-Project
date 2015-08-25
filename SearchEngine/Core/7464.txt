@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/community/events/", "title": "untitled document", "html": "<html>\n<head>\n<title>Untitled Document</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<META HTTP-EQUIV=\"refresh\" content=\"0;URL=http://www.ics.uci.edu/\">\n</head>\n\n<body>\n\n</body>\n</html>\n", "id": 7464.0}

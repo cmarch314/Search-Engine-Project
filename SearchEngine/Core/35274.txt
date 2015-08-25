@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/~djp3/classes/2007_04_02_INF132/Lecture04/quizAnswer2.html", "title": "", "html": "<map id=\"GraffleExport\">\n</map>\n<img border=0 src=\"Answer2.jpg\" usemap=\"#GraffleExport\">\n", "id": 35274.0}

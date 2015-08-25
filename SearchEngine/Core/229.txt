@@ -1,0 +1,1 @@
+{"text": "I left UCI Visit my previous page at www ics uci edu dsm ngocdo", "_id": "http://www.ics.uci.edu/~nmdo/", "title": "ngoc do @ uci", "html": "<HTML>\n<HEAD>\n<title>Ngoc Do @ UCI</title>\n</HEAD>\n\nI left UCI... Visit my previous page at <a href=\"http://www.ics.uci.edu/~dsm/ngocdo\">www.ics.uci.edu/~dsm/ngocdo</a>\n\n</HTML>", "id": 229.0}

@@ -1,0 +1,1 @@
+{"text": "Redirecting ", "_id": "http://www.ics.uci.edu/~insa/", "title": "your page title", "html": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\r\n<html>\r\n<head>\r\n<title>Your Page Title</title>\r\n<meta http-equiv=\"REFRESH\" content=\"0;url=http://www.jordansthoughts.com/insa\"></HEAD>\r\n<BODY>\r\nRedirecting...\r\n</BODY>\r\n</HTML>", "id": 32456.0}

@@ -1,0 +1,1 @@
+{"text": "Moved to http www ics uci edu pazzani RTF AAAI html", "_id": "http://www.ics.uci.edu/~pazzani/Publications/aaai-webert.html", "title": "refresh", "html": " <HTML> <HEAD>  <TITLE>Refresh</TITLE>\n</HEAD>\n<body>\n<a href=http://www.ics.uci.edu/~pazzani/RTF/AAAI.html>\nMoved to http://www.ics.uci.edu/~pazzani/RTF/AAAI.html\n</body>\n</html>", "id": 32801.0}

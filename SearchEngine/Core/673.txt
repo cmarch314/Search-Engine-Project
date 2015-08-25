@@ -1,0 +1,1 @@
+{"text": "", "_id": "http://www.ics.uci.edu/~cs122b/", "title": "", "html": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">\n<html>\n<head>\n<meta http-equiv=\"REFRESH\" content=\"0;url=https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2015-winter\"></HEAD>\n</HTML>\n", "id": 673.0}

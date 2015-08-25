@@ -1,0 +1,1 @@
+{"text": "Propositional and first order logic with visitors singletons and other patterns used ", "_id": "http://www.ics.uci.edu/~alspaugh/cls/shr/formulaVisited/package.html", "title": "", "html": "<html>\n<body>\n\n<p>\nPropositional and first-order logic with visitors, singletons, \nand other patterns used.\n\n\n</body>\n</html>\n", "id": 27939.0}
